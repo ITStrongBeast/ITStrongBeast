@@ -1,8 +1,9 @@
+<h1 align="center">George Golenkov</h1>
 <h3 align="center">Backend Developer</h3>
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 I’m currently learning [Computer Technologies at ITMO University](Computer Technologies at ITMO University)
+- 👨‍💻 I’m currently learning Computer Technologies at ITMO University
 
 - 📫 Telegram: **@FYVr22**
 
